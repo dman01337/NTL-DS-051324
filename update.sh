@@ -1,5 +1,4 @@
 #!/bin/bash
-cd Documents\Flatiron\Course_material\phase_1\live\NTL-DS-051324
 git add .
 git commit -m 'daily lecture updates'
 git push
